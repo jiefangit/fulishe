@@ -2,9 +2,7 @@
 
 四合一加速命令：
 
-wget -N --no-check-certificate "https://github.com/jiefangit/fulishe/raw/master/tcp/tcp.sh"
-bash tcp.sh
-
+wget -N --no-check-certificate "https://github.com/jiefangit/fulishe/raw/master/tcp/tcp.sh" && bash tcp.sh
 
 BBR加速命令：
 
