@@ -1,2 +1,4 @@
 这个文件夹主要用来放置一些加速脚本，在此感谢相关作者。
 
+wget -N --no-check-certificate "
+bash tcp.sh
